@@ -10,3 +10,7 @@ Follow me @ KaizenMachina on YouTube for daily content :D
 4. [Comments, Numeric Types, & Arithmetic](https://www.youtube.com/watch?v=jxPW8sx5y3o)
 5. [More Arithmetic & Type Casting](https://www.youtube.com/watch?v=KQiqCCbeqQQ)
 6. Modules, Incrementors, & Square Roots - **_Coming 8/8/2018_**
+7. Arithmetic Review - **_Coming 8/8/2018_**
+8. Strings (pt. 1) - **_Coming 8/8/2018_**
+9. Strings (pt. 2) - **_Coming 8/8/2018_**
+10. Strings (pt. 3) - **_Coming 8/8/2018_**
