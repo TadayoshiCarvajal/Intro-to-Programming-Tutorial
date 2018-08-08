@@ -1,6 +1,6 @@
 # Intro-to-Programming-Tutorial
 These are the scripts corresponding to my YouTube tutorial series on introduction to programming in Python.
-Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6SBvg My Channel :D) on YouTube for daily content :D
+Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6SBvg "My Channel :D") on YouTube for daily content :D
 
 ## Table of Contents:
 
