@@ -10,7 +10,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 4. [Comments, Numeric Types, & Arithmetic](https://www.youtube.com/watch?v=jxPW8sx5y3o)
 5. [More Arithmetic & Type Casting](https://www.youtube.com/watch?v=KQiqCCbeqQQ)
 6. [Modules, Dir, & Help](https://www.youtube.com/watch?v=9BpzojeqoBg)
-7. Incrementors & Arithmetic Review - **_Coming 8/10/2018_**
-8. Strings (pt. 1) - **_Coming 8/10/2018_**
-9. Strings (pt. 2) - **_Coming 8/10/2018_**
-10. Strings (pt. 3) - **_Coming 8/10/2018_**
+7. Incrementors & Arithmetic Review - **_Coming 8/11/2018_**
+8. Strings (pt. 1) - **_Coming 8/12/2018_**
+9. Strings (pt. 2) - **_Coming 8/13/2018_**
+10. Strings (pt. 3) - **_Coming 8/14/2018_**
