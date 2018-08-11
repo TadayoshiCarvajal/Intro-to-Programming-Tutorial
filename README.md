@@ -14,3 +14,4 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 8. Strings (pt. 1) - **_Coming 8/12/2018_**
 9. Strings (pt. 2) - **_Coming 8/13/2018_**
 10. Strings (pt. 3) - **_Coming 8/14/2018_**
+11. Strings (pt. 4) - **_Coming 8/15/2018_**
