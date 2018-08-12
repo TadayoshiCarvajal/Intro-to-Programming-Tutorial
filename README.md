@@ -39,8 +39,8 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 28. While-loops (pt. 1) - **_Coming 8/20/2018_**
 29. While-loops (pt. 2) - **_Coming 8/20/2018_**
 30. Nested Looping - **_Coming 8/20/2018_**
-31. Errors - (pt. 1) - **_Coming 8/21/2018_**
-32. Try Statements - (pt. 2) - **_Coming 8/21/2018_**
+31. Errors - **_Coming 8/21/2018_**
+32. Try Statements - **_Coming 8/21/2018_**
 
 #### Part IV: Modularity
 33. The Data Model - **_Coming 8/21/2018_**
