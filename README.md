@@ -63,5 +63,6 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 48. Generators - **_Coming 8/26/2018_**
 49. Random Module - **_Coming 8/27/2018_**
 50. Math Module (Revisited) - **_Coming 8/27/2018_**
-51. The Final Project - **_Coming 8/28/2018_**
-52. What Next? - **_Coming 8/28/2018_**
+51. The Final Project (pt. 1) - **_Coming 8/28/2018_**
+52. The Final Project (pt. 2) - **_Coming 8/28/2018_**
+53. What Next? - **_Coming 8/28/2018_**
