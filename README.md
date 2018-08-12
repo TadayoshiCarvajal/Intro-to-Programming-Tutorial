@@ -54,15 +54,18 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 41. Classes (pt. 1) - **_Coming 8/24/2018_**
 42. Classes (pt. 2) - **_Coming 8/24/2018_**
 43. Classes (pt. 3) - **_Coming 8/24/2018_**
+44. Classes (pt. 4) - **_Coming 8/24/2018_**
+45. Classes (pt. 5) - **_Coming 8/24/2018_**
 
 #### Part V: Additional Topics
-44. Files (pt. 1) - **_Coming 8/25/2018_**
-45. Files (pt. 2) - **_Coming 8/25/2018_**
-46. Comprehensions (pt. 1) - **_Coming 8/26/2018_**
-47. Comprehensions (pt. 2) - **_Coming 8/26/2018_**
-48. Generators - **_Coming 8/26/2018_**
-49. Random Module - **_Coming 8/27/2018_**
-50. Math Module (Revisited) - **_Coming 8/27/2018_**
-51. The Final Project (pt. 1) - **_Coming 8/28/2018_**
-52. The Final Project (pt. 2) - **_Coming 8/28/2018_**
-53. What Next? - **_Coming 8/28/2018_**
+46. Files (pt. 1) - **_Coming 8/25/2018_**
+47. Files (pt. 2) - **_Coming 8/25/2018_**
+48. Comprehensions (pt. 1) - **_Coming 8/26/2018_**
+49. Comprehensions (pt. 2) - **_Coming 8/26/2018_**
+50. Generators - **_Coming 8/26/2018_**
+51. Random Module - **_Coming 8/27/2018_**
+52. Math Module (Revisited) - **_Coming 8/27/2018_**
+53. Unit Tests - **_Coming 8/28/2018_**
+54. The Final Project (pt. 1) - **_Coming 8/29/2018_**
+55. The Final Project (pt. 2) - **_Coming 8/29/2018_**
+56. What Next? - **_Coming 8/30/2018_**
