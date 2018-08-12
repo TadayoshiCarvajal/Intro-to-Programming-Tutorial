@@ -9,7 +9,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 2. [Getting Started](https://www.youtube.com/watch?v=Yodu4tjDWQA)
 3. [Variables & Assignment](https://www.youtube.com/watch?v=Vou_0U2jrzY)
 
-#### Part 2: Data Types
+#### Part II: Data Types
 4. [Comments, Numeric Types, & Arithmetic](https://www.youtube.com/watch?v=jxPW8sx5y3o)
 5. [More Arithmetic & Type Casting](https://www.youtube.com/watch?v=KQiqCCbeqQQ)
 6. [Modules, Dir, & Help](https://www.youtube.com/watch?v=9BpzojeqoBg)
@@ -29,7 +29,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 20. Booleans (pt. 1) - **_Coming 8/17/2018_**
 21. Booleans (pt. 2) - **_Coming 8/17/2018_**
 
-#### Part 3: Control Flow Statements
+#### Part III: Control Flow Statements
 22. Control Flow - **_Coming 8/19/2018_**
 23. Conditional Statements (pt. 1) - **_Coming 8/19/2018_**
 24. Conditional Statements (pt. 2) - **_Coming 8/19/2018_**
@@ -42,7 +42,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 31. Errors - (pt. 1) - **_Coming 8/21/2018_**
 32. Try Statements - (pt. 2) - **_Coming 8/21/2018_**
 
-#### Part 4: Modularity
+#### Part IV: Modularity
 33. The Data Model - **_Coming 8/21/2018_**
 34. Functions (pt. 1) - **_Coming 8/22/2018_**
 35. Functions (pt. 2) - **_Coming 8/22/2018_**
@@ -55,7 +55,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 42. Classes (pt. 2) - **_Coming 8/24/2018_**
 43. Classes (pt. 3) - **_Coming 8/24/2018_**
 
-#### Part 5: Additional Topics
+#### Part V: Additional Topics
 44. Files (pt. 1) - **_Coming 8/25/2018_**
 45. Files (pt. 2) - **_Coming 8/25/2018_**
 46. Comprehensions (pt. 1) - **_Coming 8/26/2018_**
