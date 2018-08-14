@@ -16,7 +16,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 7. [Incrementors & Arithmetic Review](https://www.youtube.com/watch?v=uU6scs5zGQg)
 8. [Strings (pt. 1)](https://www.youtube.com/watch?v=Ql6YkkEqcq4)
 9. [Strings (pt. 2)](https://www.youtube.com/watch?v=K9ZjVv7Nt1U)
-10. Strings (pt. 3) - **_Coming 8/13/2018_**
+10. [Strings (pt. 3)](https://www.youtube.com/watch?v=3PT4oOD5IQM)
 11. Strings (pt. 4) - **_Coming 8/13/2018_**
 12. Strings (pt. 5) - **_Coming 8/13/2018_**
 13. Lists (pt. 1) - **_Coming 8/14/2018_**
