@@ -1,5 +1,5 @@
 '''
-Here is the Python script that corresponds to the 11th episode in
+Here is the Python script that corresponds to the 12th episode in
 my YouTube tutorial series, Intro to Programming in Python.
 Follow me at KaizenMachina on YouTube for daily content.
 '''
