@@ -19,7 +19,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 10. [Strings (pt. 3)](https://www.youtube.com/watch?v=3PT4oOD5IQM)
 11. [Strings (pt. 4)](https://www.youtube.com/watch?v=DHkCRQtY8v8)
 12. [Strings (pt. 5)](https://www.youtube.com/watch?v=wf-xmz4U1DA)
-13. Lists (pt. 1) - **_Coming 8/15/2018_**
+13. [Lists (pt. 1)](https://www.youtube.com/watch?v=4MJ3W_DhRPk)
 14. Lists (pt. 2) - **_Coming 8/16/2018_**
 15. Tuples & Immutability - **_Coming 8/17/2018_**
 16. Dictionaries (pt. 1) - **_Coming 8/18/2018_**
