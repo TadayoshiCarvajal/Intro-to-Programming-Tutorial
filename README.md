@@ -22,7 +22,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 13. [Lists (pt. 1)](https://www.youtube.com/watch?v=4MJ3W_DhRPk)
 14. [Lists (pt. 2)](https://www.youtube.com/watch?v=bX-Bu0wAqd0)
 15. [Tuples & Immutability](https://www.youtube.com/watch?v=_EtwGeKkE84)
-16. Dictionaries (pt. 1) - **_Coming 8/18/2018_**
+16. [Dictionaries (pt. 1)](https://www.youtube.com/watch?v=8EdmDTLvk5o)
 17. Dictionaries (pt. 2) - **_Coming 8/19/2018_**
 18. Sets (pt. 1) - **_Coming 8/20/2018_**
 19. Sets (pt. 2)- **_Coming 8/21/2018_**
