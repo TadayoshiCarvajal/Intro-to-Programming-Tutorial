@@ -25,7 +25,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 16. [Dictionaries (pt. 1)](https://www.youtube.com/watch?v=8EdmDTLvk5o)
 17. [Dictionaries (pt. 2)](https://www.youtube.com/watch?v=ezlMHPN-7po)
 18. [Sets](https://www.youtube.com/watch?v=u2YzkDLQWxY)
-19. Booleans (pt. 1) - **_Coming 8/21/2018_**
+19. [Booleans (pt. 1)](https://www.youtube.com/watch?v=GOnW1sH81oY)
 20. Booleans (pt. 2) - **_Coming 8/22/2018_**
 21. Data Types Review - **_Coming 8/23/2018_**
 
