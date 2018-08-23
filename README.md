@@ -28,7 +28,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 19. [Booleans (pt. 1)](https://www.youtube.com/watch?v=GOnW1sH81oY)
 20. [Booleans (pt. 2)](https://www.youtube.com/watch?v=N55h9wUNFaI)
 21. [Booleans (pt. 3)](https://www.youtube.com/watch?v=ZFEiEI7eSs8)
-22. Data Types Review - **_Coming 8/23/2018_**
+22. [Is & Data Types Review](https://www.youtube.com/watch?v=Qqw9EwjpV98)
 
 #### Part III: Control Flow Statements
 23. Control Flow - **_Coming 8/24/2018_**
