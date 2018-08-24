@@ -31,7 +31,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 22. [Is & Data Types Review](https://www.youtube.com/watch?v=Qqw9EwjpV98)
 
 #### Part III: Control Flow Statements
-23. Control Flow - **_Coming 8/24/2018_**
+23. [Control Flow](https://www.youtube.com/watch?v=1bCm8QiTw8g)
 24. Conditional Statements (pt. 1) - **_Coming 8/25/2018_**
 25. Conditional Statements (pt. 2) - **_Coming 8/26/2018_**
 26. Conditional Statements (pt. 3) - **_Coming 8/27/2018_**
