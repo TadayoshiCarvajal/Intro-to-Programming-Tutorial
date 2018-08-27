@@ -33,7 +33,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 #### Part III: Control Flow Statements
 23. [Control Flow](https://www.youtube.com/watch?v=1bCm8QiTw8g)
 24. [Conditional Statements (pt. 1)](https://www.youtube.com/watch?v=PuAosHOqEos)
-25. Conditional Statements (pt. 2) - **_Coming 8/27/2018_**
+25. [Conditional Statements (pt. 2)](https://www.youtube.com/watch?v=MS1x-s1qguE)
 26. Conditional Statements (pt. 3) - **_Coming 8/28/2018_**
 27. For-loops (pt. 1) - **_Coming 8/29/2018_**
 28. For-loops (pt. 2) - **_Coming 8/30/2018_**
