@@ -59,8 +59,8 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 46. Classes (pt. 5) - **_Coming 9/18/2018_**
 
 #### Part V: Additional Topics
-47. Files (pt. 1) - **_Coming 9/19/2018_**
-48. Files (pt. 2) - **_Coming 9/20/2018_**
+47. Assignment Revisited - **_Coming 9/19/2018_**
+48. Files - **_Coming 9/20/2018_**
 49. Comprehensions (pt. 1) - **_Coming 9/21/2018_**
 50. Comprehensions (pt. 2) - **_Coming 9/22/2018_**
 51. Generators - **_Coming 9/23/2018_**
