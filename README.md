@@ -35,7 +35,7 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 24. [Conditional Statements (pt. 1)](https://www.youtube.com/watch?v=PuAosHOqEos)
 25. [Conditional Statements (pt. 2)](https://www.youtube.com/watch?v=MS1x-s1qguE)
 26. [Conditional Statements (pt. 3)](https://www.youtube.com/watch?v=SDAtqWuGBOM)
-27. For-loops (pt. 1) - **_Coming 8/30/2018_**
+27. [For-loops (pt. 1)](https://www.youtube.com/watch?v=uJvqMyK6-dw)
 28. For-loops (pt. 2) - **_Coming 8/31/2018_**
 29. While-loops (pt. 1) - **_Coming 9/1/2018_**
 30. While-loops (pt. 2) - **_Coming 9/2/2018_**
