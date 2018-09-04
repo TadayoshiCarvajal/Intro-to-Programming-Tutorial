@@ -36,40 +36,41 @@ Follow me @ [KaizenMachina](https://www.youtube.com/channel/UCMhsEEaVC8ldnOnSXO6
 25. [Conditional Statements (pt. 2)](https://www.youtube.com/watch?v=MS1x-s1qguE)
 26. [Conditional Statements (pt. 3)](https://www.youtube.com/watch?v=SDAtqWuGBOM)
 27. [For-loops (pt. 1)](https://www.youtube.com/watch?v=uJvqMyK6-dw)
-28. For-loops (pt. 2) - **_Coming 8/31/2018_**
-29. While-loops (pt. 1) - **_Coming 9/1/2018_**
-30. While-loops (pt. 2) - **_Coming 9/2/2018_**
-31. Nested Looping - **_Coming 9/3/2018_**
-32. Errors - **_Coming 9/4/2018_**
-33. Try Statements - **_Coming 9/5/2018_**
+28. For-loops (pt. 2) - **_Coming 9/4/2018_**
+29. While-loops (pt. 1) - **_Coming 9/5/2018_**
+30. While-loops (pt. 2) - **_Coming 9/6/2018_**
+31. Nested Looping - **_Coming 9/7/2018_**
+32. Errors - **_Coming 9/8/2018_**
+33. Try Statements - **_Coming 9/9/2018_**
 
 #### Part IV: Modularity
-34. The Data Model - **_Coming 9/6/2018_**
-35. Functions (pt. 1) - **_Coming 9/7/2018_**
-36. Functions (pt. 2) - **_Coming 9/8/2018_**
-37. Functions (pt. 3) - **_Coming 9/9/2018_**
-38. Functions (pt. 4) - **_Coming 9/10/2018_**
-39. Namespaces & Scope - **_Coming 9/11/2018_**
-40. Hackerrank.com! - **_Coming 9/12/2018_**
-41. Classes and Custom Objects - **_Coming 9/13/2018_**
-42. Classes (pt. 1) - **_Coming 9/14/2018_**
-43. Classes (pt. 2) - **_Coming 9/15/2018_**
-44. Classes (pt. 3) - **_Coming 9/16/2018_**
-45. Classes (pt. 4) - **_Coming 9/17/2018_**
-46. Classes (pt. 5) - **_Coming 9/18/2018_**
+34. The Data Model - **_Coming 9/10/2018_**
+35. Functions (pt. 1) - **_Coming 9/11/2018_**
+36. Functions (pt. 2) - **_Coming 9/12/2018_**
+37. Functions (pt. 3) - **_Coming 9/13/2018_**
+38. Functions (pt. 4) - **_Coming 9/14/2018_**
+39. Namespaces & Scope - **_Coming 9/15/2018_**
+40. Hackerrank.com! - **_Coming 9/16/2018_**
+41. Classes and Custom Objects - **_Coming 9/17/2018_**
+42. Classes (pt. 1) - **_Coming 9/18/2018_**
+43. Classes (pt. 2) - **_Coming 9/19/2018_**
+44. Classes (pt. 3) - **_Coming 9/20/2018_**
+45. Classes (pt. 4) - **_Coming 9/21/2018_**
+46. Classes (pt. 5) - **_Coming 9/22/2018_**
 
 #### Part V: Additional Topics
-47. Assignment Revisited - **_Coming 9/19/2018_**
-48. Files - **_Coming 9/20/2018_**
-49. Comprehensions (pt. 1) - **_Coming 9/21/2018_**
-50. Comprehensions (pt. 2) - **_Coming 9/22/2018_**
-51. Generators - **_Coming 9/23/2018_**
-52. Time Module - **_Coming 9/24/2018_**
-53. Datetime Module - **_Coming 9/25/2018_**
-54. Random Module - **_Coming 9/26/2018_**
-55. Math Module (Revisited) - **_Coming 9/27/2018_**
-56. Copy Module - **_Coming 9/28/2018_**
-57. Unit Tests - **_Coming 9/29/2018_**
-58. The Final Project (pt. 1) - **_Coming 9/30/2018_**
-59. The Final Project (pt. 2) - **_Coming 10/1/2018_**
-60. What Next? - **_Coming 10/2/2018_**
+47. Assignment Revisited (pt. 1) - **_Coming 9/23/2018_**
+48. Assignment Revisited (pt. 2) - **_Coming 9/24/2018_**
+49. Files - **_Coming 9/25/2018_**
+50. Comprehensions (pt. 1) - **_Coming 9/26/2018_**
+51. Comprehensions (pt. 2) - **_Coming 9/27/2018_**
+52. Generators - **_Coming 9/28/2018_**
+53. Time Module - **_Coming 9/29/2018_**
+54. Datetime Module - **_Coming 9/30/2018_**
+55. Random Module - **_Coming 10/1/2018_**
+56. Math Module (Revisited) - **_Coming 10/2/2018_**
+57. Copy Module - **_Coming 10/3/2018_**
+58. Unit Tests - **_Coming 10/4/2018_**
+59. The Final Project (pt. 1) - **_Coming 10/5/2018_**
+60. The Final Project (pt. 2) - **_Coming 10/6/2018_**
+61. What Next? - **_Coming 10/7/2018_**
